@@ -13,17 +13,17 @@ export class PsComponent {
   primerBimestre: Array<any> = [
     {
       title: 'Laboratorio PS #1',
-      description: 'Aplicación web de todo list y contactos',
+      description: 'Aplicación web de todo list y contactos desarrollada con html, css y mucho javascript',
       link: './assets/files/contacts.zip',
     },
     {
       title: 'Laboratorio PS #2',
-      description: 'API REST para la gestión de un centro educativo',
+      description: 'Sencilla API REST para la gestión de un centro educativo desarrollada con Javascript y Node.js',
       link: './assets/files/academic-control.zip',
     },
     {
       title: 'Laboratorio PS #3',
-      description: 'API REST para la gestión de opiniones de usuarios',
+      description: 'Sencilla API REST para la gestión de opiniones de usuarios donde se pueden hacer comentarios a las publicaciones, desarrollado con Javascript y Node.js',
       link: 'https://github.com/acabrera-2022508/opinion-manager',
     },
   ];
@@ -31,7 +31,7 @@ export class PsComponent {
   segundoBimestre: Array<any> = [
     {
       title: 'Almacenadora',
-      description: 'Aplicación web desarrollada con React para la gestión de tareas',
+      description: 'Aplicación web desarrollada con React para la gestión de tareas de diferentes usuarios. Posee un Login y un Register funcional, asi como un backend para poder realizar peticiones a la base de datos de mongodb',
       link: 'https://github.com/AnderCabrera/almacenadora-frontend',
     },
   ];
